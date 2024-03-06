@@ -48520,9 +48520,9 @@ if(p!==s.cy)s.wO(p)
 q=q.a.a
 s.cy=q
 if(q.length===0||s.ay.length===0)return B.f_
-r=r.a.a
-q=r>800?300:8
-r=r>300?500:8
+r=r.a.a>800
+q=r?300:8
+r=r?300:8
 return new A.c7(new A.aG(q,0,r,0),A.uA(new A.acM(s),s.ay.length,B.ad),null)}}
 A.acH.prototype={
 $0(){this.a.shL(0,"")
