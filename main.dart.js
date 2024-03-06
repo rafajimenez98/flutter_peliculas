@@ -48191,8 +48191,8 @@ o=m.length
 if(o===0)return A.m1(A.p4(q,q,!0,q,q,1,!0,q,0,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.zZ,q,q,q,1,q),B.f_,q)
 s=A.p4(q,q,!0,q,q,1,!0,q,0,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.zZ,q,q,q,1,q)
 n=n.a.a>800
-r=n?500:8
-n=n?500:8
+r=n?300:8
+n=n?300:8
 return A.m1(s,new A.c7(new A.aG(r,0,n,0),A.uA(new A.acm(m,p),o,B.ad),q),q)}}
 A.acm.prototype={
 $2(a,b){var s,r,q,p=null,o="Sin titulo",n=this.a,m=n[b],l="peliculas-"+A.d(m.d)
@@ -48258,8 +48258,8 @@ o=m.length
 if(o===0)return A.m1(A.p4(q,q,!0,q,q,1,!0,q,0,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.zW,q,q,q,1,q),B.f_,q)
 s=A.p4(q,q,!0,q,q,1,!0,q,0,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.zW,q,q,q,1,q)
 n=n.a.a>800
-r=n?500:8
-n=n?500:8
+r=n?300:8
+n=n?300:8
 return A.m1(s,new A.c7(new A.aG(r,0,n,0),A.uA(new A.alM(m,p),o,B.ad),q),q)}}
 A.alM.prototype={
 $2(a,b){var s,r,q=null,p="Sin titulo",o=this.a,n=o[b],m="busquedas-"+A.d(n.d)
