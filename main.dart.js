@@ -48512,17 +48512,17 @@ return A.lv(s,s,B.GW,s,new A.acI(this,a),s,s,s,s)},
 ajO(a){var s,r=A.im(a,t.v),q=A.b7(a,null,t.w).w
 if(this.r.a.a.length===0||r.ay.length===0)return B.f_
 q=q.a.a>800
-s=q?500:8
-q=q?500:8
+s=q?300:8
+q=q?300:8
 return new A.c7(new A.aG(s,0,q,0),A.uA(new A.acK(r),r.ay.length,B.ad),null)},
 ajR(a){var s=A.im(a,t.v),r=A.b7(a,null,t.w).w,q=this.r,p=q.a.a
 if(p!==s.cy)s.wO(p)
 q=q.a.a
 s.cy=q
 if(q.length===0||s.ay.length===0)return B.f_
-r=r.a.a>800
-q=r?500:8
-r=r?500:8
+r=r.a.a
+q=r>800?300:8
+r=r>300?500:8
 return new A.c7(new A.aG(q,0,r,0),A.uA(new A.acM(s),s.ay.length,B.ad),null)}}
 A.acH.prototype={
 $0(){this.a.shL(0,"")
